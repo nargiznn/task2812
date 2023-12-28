@@ -1,0 +1,14 @@
+/Users/nergiznadirli/Projects/homeworke/task2812/bin/Debug/netcoreapp3.1/task2812
+/Users/nergiznadirli/Projects/homeworke/task2812/bin/Debug/netcoreapp3.1/task2812.deps.json
+/Users/nergiznadirli/Projects/homeworke/task2812/bin/Debug/netcoreapp3.1/task2812.runtimeconfig.json
+/Users/nergiznadirli/Projects/homeworke/task2812/bin/Debug/netcoreapp3.1/task2812.runtimeconfig.dev.json
+/Users/nergiznadirli/Projects/homeworke/task2812/bin/Debug/netcoreapp3.1/task2812.dll
+/Users/nergiznadirli/Projects/homeworke/task2812/bin/Debug/netcoreapp3.1/task2812.pdb
+/Users/nergiznadirli/Projects/homeworke/task2812/obj/Debug/netcoreapp3.1/task2812.csproj.AssemblyReference.cache
+/Users/nergiznadirli/Projects/homeworke/task2812/obj/Debug/netcoreapp3.1/task2812.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nergiznadirli/Projects/homeworke/task2812/obj/Debug/netcoreapp3.1/task2812.AssemblyInfoInputs.cache
+/Users/nergiznadirli/Projects/homeworke/task2812/obj/Debug/netcoreapp3.1/task2812.AssemblyInfo.cs
+/Users/nergiznadirli/Projects/homeworke/task2812/obj/Debug/netcoreapp3.1/task2812.csproj.CoreCompileInputs.cache
+/Users/nergiznadirli/Projects/homeworke/task2812/obj/Debug/netcoreapp3.1/task2812.dll
+/Users/nergiznadirli/Projects/homeworke/task2812/obj/Debug/netcoreapp3.1/task2812.pdb
+/Users/nergiznadirli/Projects/homeworke/task2812/obj/Debug/netcoreapp3.1/task2812.genruntimeconfig.cache
